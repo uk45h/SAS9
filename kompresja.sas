@@ -1,1 +1,1 @@
-options compress=yes;
+options compress=char;
