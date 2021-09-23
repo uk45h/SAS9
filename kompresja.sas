@@ -1,0 +1,1 @@
+options compress=yes;
